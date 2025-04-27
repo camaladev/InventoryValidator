@@ -1,0 +1,5 @@
+[
+    { "id": "P001", "nombre": "Mouse", "stock_inicial": 20, "categoria": "Electrónica" },
+    { "id": "P002", "nombre": "Cuaderno", "stock_inicial": 50, "categoria": "Papelería" }
+  ]
+  
